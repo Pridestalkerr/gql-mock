@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    background: linear-gradient(326deg, #a007e7 0%, #a30ab1 74%);
+    font-family: sans-serif;
+    height: 100vh;
+}
+
+#root {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#hist {
+    border-radius: 25px;
+}
