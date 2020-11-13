@@ -16,3 +16,4 @@ The GQL api is not very mature (lack of parameters in queries) so we'll manage b
 3. Mess around with Visx until the histogram looks nice :P.
 
 ### result
+![demo](https://github.com/Pridestalkerr/gql-mock/blob/main/demo.jpg)
