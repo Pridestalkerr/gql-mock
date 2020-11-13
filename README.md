@@ -17,3 +17,9 @@ The GQL api is not very mature (lack of parameters in queries) so we'll manage b
 
 ### result
 ![demo](https://github.com/Pridestalkerr/gql-mock/blob/main/demo.jpg)
+
+### running it
+```bash
+npm i
+npm start
+```
